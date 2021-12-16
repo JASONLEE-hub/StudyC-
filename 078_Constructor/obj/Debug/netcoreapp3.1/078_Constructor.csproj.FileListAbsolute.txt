@@ -1,0 +1,13 @@
+/Users/ijaeseung/Projects/test/078_Constructor/bin/Debug/netcoreapp3.1/078_Constructor.deps.json
+/Users/ijaeseung/Projects/test/078_Constructor/bin/Debug/netcoreapp3.1/078_Constructor.runtimeconfig.json
+/Users/ijaeseung/Projects/test/078_Constructor/bin/Debug/netcoreapp3.1/078_Constructor.runtimeconfig.dev.json
+/Users/ijaeseung/Projects/test/078_Constructor/bin/Debug/netcoreapp3.1/078_Constructor.dll
+/Users/ijaeseung/Projects/test/078_Constructor/bin/Debug/netcoreapp3.1/078_Constructor.pdb
+/Users/ijaeseung/Projects/test/078_Constructor/obj/Debug/netcoreapp3.1/078_Constructor.csproj.AssemblyReference.cache
+/Users/ijaeseung/Projects/test/078_Constructor/obj/Debug/netcoreapp3.1/078_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijaeseung/Projects/test/078_Constructor/obj/Debug/netcoreapp3.1/078_Constructor.AssemblyInfoInputs.cache
+/Users/ijaeseung/Projects/test/078_Constructor/obj/Debug/netcoreapp3.1/078_Constructor.AssemblyInfo.cs
+/Users/ijaeseung/Projects/test/078_Constructor/obj/Debug/netcoreapp3.1/078_Constructor.csproj.CoreCompileInputs.cache
+/Users/ijaeseung/Projects/test/078_Constructor/obj/Debug/netcoreapp3.1/078_Constructor.dll
+/Users/ijaeseung/Projects/test/078_Constructor/obj/Debug/netcoreapp3.1/078_Constructor.pdb
+/Users/ijaeseung/Projects/test/078_Constructor/obj/Debug/netcoreapp3.1/078_Constructor.genruntimeconfig.cache

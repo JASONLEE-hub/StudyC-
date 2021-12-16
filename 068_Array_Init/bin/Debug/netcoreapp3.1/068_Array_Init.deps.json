@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "068_Array_Init/1.0.0": {
+        "runtime": {
+          "068_Array_Init.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "068_Array_Init/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

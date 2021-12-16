@@ -1,0 +1,13 @@
+/Users/ijaeseung/Projects/test/063_Func_out/bin/Debug/netcoreapp3.1/063_Func_out.deps.json
+/Users/ijaeseung/Projects/test/063_Func_out/bin/Debug/netcoreapp3.1/063_Func_out.runtimeconfig.json
+/Users/ijaeseung/Projects/test/063_Func_out/bin/Debug/netcoreapp3.1/063_Func_out.runtimeconfig.dev.json
+/Users/ijaeseung/Projects/test/063_Func_out/bin/Debug/netcoreapp3.1/063_Func_out.dll
+/Users/ijaeseung/Projects/test/063_Func_out/bin/Debug/netcoreapp3.1/063_Func_out.pdb
+/Users/ijaeseung/Projects/test/063_Func_out/obj/Debug/netcoreapp3.1/063_Func_out.csproj.AssemblyReference.cache
+/Users/ijaeseung/Projects/test/063_Func_out/obj/Debug/netcoreapp3.1/063_Func_out.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijaeseung/Projects/test/063_Func_out/obj/Debug/netcoreapp3.1/063_Func_out.AssemblyInfoInputs.cache
+/Users/ijaeseung/Projects/test/063_Func_out/obj/Debug/netcoreapp3.1/063_Func_out.AssemblyInfo.cs
+/Users/ijaeseung/Projects/test/063_Func_out/obj/Debug/netcoreapp3.1/063_Func_out.csproj.CoreCompileInputs.cache
+/Users/ijaeseung/Projects/test/063_Func_out/obj/Debug/netcoreapp3.1/063_Func_out.dll
+/Users/ijaeseung/Projects/test/063_Func_out/obj/Debug/netcoreapp3.1/063_Func_out.pdb
+/Users/ijaeseung/Projects/test/063_Func_out/obj/Debug/netcoreapp3.1/063_Func_out.genruntimeconfig.cache

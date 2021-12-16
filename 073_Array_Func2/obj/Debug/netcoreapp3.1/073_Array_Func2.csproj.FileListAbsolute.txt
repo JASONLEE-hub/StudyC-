@@ -1,0 +1,13 @@
+/Users/ijaeseung/Projects/test/073_Array_Func2/bin/Debug/netcoreapp3.1/073_Array_Func2.deps.json
+/Users/ijaeseung/Projects/test/073_Array_Func2/bin/Debug/netcoreapp3.1/073_Array_Func2.runtimeconfig.json
+/Users/ijaeseung/Projects/test/073_Array_Func2/bin/Debug/netcoreapp3.1/073_Array_Func2.runtimeconfig.dev.json
+/Users/ijaeseung/Projects/test/073_Array_Func2/bin/Debug/netcoreapp3.1/073_Array_Func2.dll
+/Users/ijaeseung/Projects/test/073_Array_Func2/bin/Debug/netcoreapp3.1/073_Array_Func2.pdb
+/Users/ijaeseung/Projects/test/073_Array_Func2/obj/Debug/netcoreapp3.1/073_Array_Func2.csproj.AssemblyReference.cache
+/Users/ijaeseung/Projects/test/073_Array_Func2/obj/Debug/netcoreapp3.1/073_Array_Func2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijaeseung/Projects/test/073_Array_Func2/obj/Debug/netcoreapp3.1/073_Array_Func2.AssemblyInfoInputs.cache
+/Users/ijaeseung/Projects/test/073_Array_Func2/obj/Debug/netcoreapp3.1/073_Array_Func2.AssemblyInfo.cs
+/Users/ijaeseung/Projects/test/073_Array_Func2/obj/Debug/netcoreapp3.1/073_Array_Func2.csproj.CoreCompileInputs.cache
+/Users/ijaeseung/Projects/test/073_Array_Func2/obj/Debug/netcoreapp3.1/073_Array_Func2.dll
+/Users/ijaeseung/Projects/test/073_Array_Func2/obj/Debug/netcoreapp3.1/073_Array_Func2.pdb
+/Users/ijaeseung/Projects/test/073_Array_Func2/obj/Debug/netcoreapp3.1/073_Array_Func2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/ijaeseung/Projects/test/042_gugudan/bin/Debug/netcoreapp3.1/042_gugudan.deps.json
+/Users/ijaeseung/Projects/test/042_gugudan/bin/Debug/netcoreapp3.1/042_gugudan.runtimeconfig.json
+/Users/ijaeseung/Projects/test/042_gugudan/bin/Debug/netcoreapp3.1/042_gugudan.runtimeconfig.dev.json
+/Users/ijaeseung/Projects/test/042_gugudan/bin/Debug/netcoreapp3.1/042_gugudan.dll
+/Users/ijaeseung/Projects/test/042_gugudan/bin/Debug/netcoreapp3.1/042_gugudan.pdb
+/Users/ijaeseung/Projects/test/042_gugudan/obj/Debug/netcoreapp3.1/042_gugudan.csproj.AssemblyReference.cache
+/Users/ijaeseung/Projects/test/042_gugudan/obj/Debug/netcoreapp3.1/042_gugudan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijaeseung/Projects/test/042_gugudan/obj/Debug/netcoreapp3.1/042_gugudan.AssemblyInfoInputs.cache
+/Users/ijaeseung/Projects/test/042_gugudan/obj/Debug/netcoreapp3.1/042_gugudan.AssemblyInfo.cs
+/Users/ijaeseung/Projects/test/042_gugudan/obj/Debug/netcoreapp3.1/042_gugudan.csproj.CoreCompileInputs.cache
+/Users/ijaeseung/Projects/test/042_gugudan/obj/Debug/netcoreapp3.1/042_gugudan.dll
+/Users/ijaeseung/Projects/test/042_gugudan/obj/Debug/netcoreapp3.1/042_gugudan.pdb
+/Users/ijaeseung/Projects/test/042_gugudan/obj/Debug/netcoreapp3.1/042_gugudan.genruntimeconfig.cache

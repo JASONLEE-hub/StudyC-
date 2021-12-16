@@ -1,0 +1,13 @@
+/Users/ijaeseung/Projects/test/039_Operator6/bin/Debug/netcoreapp3.1/039_Operator6.deps.json
+/Users/ijaeseung/Projects/test/039_Operator6/bin/Debug/netcoreapp3.1/039_Operator6.runtimeconfig.json
+/Users/ijaeseung/Projects/test/039_Operator6/bin/Debug/netcoreapp3.1/039_Operator6.runtimeconfig.dev.json
+/Users/ijaeseung/Projects/test/039_Operator6/bin/Debug/netcoreapp3.1/039_Operator6.dll
+/Users/ijaeseung/Projects/test/039_Operator6/bin/Debug/netcoreapp3.1/039_Operator6.pdb
+/Users/ijaeseung/Projects/test/039_Operator6/obj/Debug/netcoreapp3.1/039_Operator6.csproj.AssemblyReference.cache
+/Users/ijaeseung/Projects/test/039_Operator6/obj/Debug/netcoreapp3.1/039_Operator6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijaeseung/Projects/test/039_Operator6/obj/Debug/netcoreapp3.1/039_Operator6.AssemblyInfoInputs.cache
+/Users/ijaeseung/Projects/test/039_Operator6/obj/Debug/netcoreapp3.1/039_Operator6.AssemblyInfo.cs
+/Users/ijaeseung/Projects/test/039_Operator6/obj/Debug/netcoreapp3.1/039_Operator6.csproj.CoreCompileInputs.cache
+/Users/ijaeseung/Projects/test/039_Operator6/obj/Debug/netcoreapp3.1/039_Operator6.dll
+/Users/ijaeseung/Projects/test/039_Operator6/obj/Debug/netcoreapp3.1/039_Operator6.pdb
+/Users/ijaeseung/Projects/test/039_Operator6/obj/Debug/netcoreapp3.1/039_Operator6.genruntimeconfig.cache

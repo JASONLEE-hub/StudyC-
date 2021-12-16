@@ -1,0 +1,13 @@
+/Users/ijaeseung/Projects/test/081_03_class_base/bin/Debug/netcoreapp3.1/081_03_class_base.deps.json
+/Users/ijaeseung/Projects/test/081_03_class_base/bin/Debug/netcoreapp3.1/081_03_class_base.runtimeconfig.json
+/Users/ijaeseung/Projects/test/081_03_class_base/bin/Debug/netcoreapp3.1/081_03_class_base.runtimeconfig.dev.json
+/Users/ijaeseung/Projects/test/081_03_class_base/bin/Debug/netcoreapp3.1/081_03_class_base.dll
+/Users/ijaeseung/Projects/test/081_03_class_base/bin/Debug/netcoreapp3.1/081_03_class_base.pdb
+/Users/ijaeseung/Projects/test/081_03_class_base/obj/Debug/netcoreapp3.1/081_03_class_base.csproj.AssemblyReference.cache
+/Users/ijaeseung/Projects/test/081_03_class_base/obj/Debug/netcoreapp3.1/081_03_class_base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijaeseung/Projects/test/081_03_class_base/obj/Debug/netcoreapp3.1/081_03_class_base.AssemblyInfoInputs.cache
+/Users/ijaeseung/Projects/test/081_03_class_base/obj/Debug/netcoreapp3.1/081_03_class_base.AssemblyInfo.cs
+/Users/ijaeseung/Projects/test/081_03_class_base/obj/Debug/netcoreapp3.1/081_03_class_base.csproj.CoreCompileInputs.cache
+/Users/ijaeseung/Projects/test/081_03_class_base/obj/Debug/netcoreapp3.1/081_03_class_base.dll
+/Users/ijaeseung/Projects/test/081_03_class_base/obj/Debug/netcoreapp3.1/081_03_class_base.pdb
+/Users/ijaeseung/Projects/test/081_03_class_base/obj/Debug/netcoreapp3.1/081_03_class_base.genruntimeconfig.cache

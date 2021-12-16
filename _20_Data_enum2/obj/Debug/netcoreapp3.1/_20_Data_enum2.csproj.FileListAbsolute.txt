@@ -1,0 +1,13 @@
+/Users/ijaeseung/Projects/test/_20_Data_enum2/bin/Debug/netcoreapp3.1/_20_Data_enum2.deps.json
+/Users/ijaeseung/Projects/test/_20_Data_enum2/bin/Debug/netcoreapp3.1/_20_Data_enum2.runtimeconfig.json
+/Users/ijaeseung/Projects/test/_20_Data_enum2/bin/Debug/netcoreapp3.1/_20_Data_enum2.runtimeconfig.dev.json
+/Users/ijaeseung/Projects/test/_20_Data_enum2/bin/Debug/netcoreapp3.1/_20_Data_enum2.dll
+/Users/ijaeseung/Projects/test/_20_Data_enum2/bin/Debug/netcoreapp3.1/_20_Data_enum2.pdb
+/Users/ijaeseung/Projects/test/_20_Data_enum2/obj/Debug/netcoreapp3.1/_20_Data_enum2.csproj.AssemblyReference.cache
+/Users/ijaeseung/Projects/test/_20_Data_enum2/obj/Debug/netcoreapp3.1/_20_Data_enum2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijaeseung/Projects/test/_20_Data_enum2/obj/Debug/netcoreapp3.1/_20_Data_enum2.AssemblyInfoInputs.cache
+/Users/ijaeseung/Projects/test/_20_Data_enum2/obj/Debug/netcoreapp3.1/_20_Data_enum2.AssemblyInfo.cs
+/Users/ijaeseung/Projects/test/_20_Data_enum2/obj/Debug/netcoreapp3.1/_20_Data_enum2.csproj.CoreCompileInputs.cache
+/Users/ijaeseung/Projects/test/_20_Data_enum2/obj/Debug/netcoreapp3.1/_20_Data_enum2.dll
+/Users/ijaeseung/Projects/test/_20_Data_enum2/obj/Debug/netcoreapp3.1/_20_Data_enum2.pdb
+/Users/ijaeseung/Projects/test/_20_Data_enum2/obj/Debug/netcoreapp3.1/_20_Data_enum2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/ijaeseung/Projects/test/032_033_DataCheck/bin/Debug/netcoreapp3.1/032_033_DataCheck.deps.json
+/Users/ijaeseung/Projects/test/032_033_DataCheck/bin/Debug/netcoreapp3.1/032_033_DataCheck.runtimeconfig.json
+/Users/ijaeseung/Projects/test/032_033_DataCheck/bin/Debug/netcoreapp3.1/032_033_DataCheck.runtimeconfig.dev.json
+/Users/ijaeseung/Projects/test/032_033_DataCheck/bin/Debug/netcoreapp3.1/032_033_DataCheck.dll
+/Users/ijaeseung/Projects/test/032_033_DataCheck/bin/Debug/netcoreapp3.1/032_033_DataCheck.pdb
+/Users/ijaeseung/Projects/test/032_033_DataCheck/obj/Debug/netcoreapp3.1/032_033_DataCheck.csproj.AssemblyReference.cache
+/Users/ijaeseung/Projects/test/032_033_DataCheck/obj/Debug/netcoreapp3.1/032_033_DataCheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijaeseung/Projects/test/032_033_DataCheck/obj/Debug/netcoreapp3.1/032_033_DataCheck.AssemblyInfoInputs.cache
+/Users/ijaeseung/Projects/test/032_033_DataCheck/obj/Debug/netcoreapp3.1/032_033_DataCheck.AssemblyInfo.cs
+/Users/ijaeseung/Projects/test/032_033_DataCheck/obj/Debug/netcoreapp3.1/032_033_DataCheck.csproj.CoreCompileInputs.cache
+/Users/ijaeseung/Projects/test/032_033_DataCheck/obj/Debug/netcoreapp3.1/032_033_DataCheck.dll
+/Users/ijaeseung/Projects/test/032_033_DataCheck/obj/Debug/netcoreapp3.1/032_033_DataCheck.pdb
+/Users/ijaeseung/Projects/test/032_033_DataCheck/obj/Debug/netcoreapp3.1/032_033_DataCheck.genruntimeconfig.cache

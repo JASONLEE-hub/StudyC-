@@ -1,0 +1,13 @@
+/Users/ijaeseung/Projects/test/055_Check/bin/Debug/netcoreapp3.1/055_Check.deps.json
+/Users/ijaeseung/Projects/test/055_Check/bin/Debug/netcoreapp3.1/055_Check.runtimeconfig.json
+/Users/ijaeseung/Projects/test/055_Check/bin/Debug/netcoreapp3.1/055_Check.runtimeconfig.dev.json
+/Users/ijaeseung/Projects/test/055_Check/bin/Debug/netcoreapp3.1/055_Check.dll
+/Users/ijaeseung/Projects/test/055_Check/bin/Debug/netcoreapp3.1/055_Check.pdb
+/Users/ijaeseung/Projects/test/055_Check/obj/Debug/netcoreapp3.1/055_Check.csproj.AssemblyReference.cache
+/Users/ijaeseung/Projects/test/055_Check/obj/Debug/netcoreapp3.1/055_Check.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijaeseung/Projects/test/055_Check/obj/Debug/netcoreapp3.1/055_Check.AssemblyInfoInputs.cache
+/Users/ijaeseung/Projects/test/055_Check/obj/Debug/netcoreapp3.1/055_Check.AssemblyInfo.cs
+/Users/ijaeseung/Projects/test/055_Check/obj/Debug/netcoreapp3.1/055_Check.csproj.CoreCompileInputs.cache
+/Users/ijaeseung/Projects/test/055_Check/obj/Debug/netcoreapp3.1/055_Check.dll
+/Users/ijaeseung/Projects/test/055_Check/obj/Debug/netcoreapp3.1/055_Check.pdb
+/Users/ijaeseung/Projects/test/055_Check/obj/Debug/netcoreapp3.1/055_Check.genruntimeconfig.cache

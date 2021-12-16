@@ -1,0 +1,13 @@
+/Users/ijaeseung/Projects/test/_016_String/bin/Debug/netcoreapp3.1/_016_String.deps.json
+/Users/ijaeseung/Projects/test/_016_String/bin/Debug/netcoreapp3.1/_016_String.runtimeconfig.json
+/Users/ijaeseung/Projects/test/_016_String/bin/Debug/netcoreapp3.1/_016_String.runtimeconfig.dev.json
+/Users/ijaeseung/Projects/test/_016_String/bin/Debug/netcoreapp3.1/_016_String.dll
+/Users/ijaeseung/Projects/test/_016_String/bin/Debug/netcoreapp3.1/_016_String.pdb
+/Users/ijaeseung/Projects/test/_016_String/obj/Debug/netcoreapp3.1/_016_String.csproj.AssemblyReference.cache
+/Users/ijaeseung/Projects/test/_016_String/obj/Debug/netcoreapp3.1/_016_String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijaeseung/Projects/test/_016_String/obj/Debug/netcoreapp3.1/_016_String.AssemblyInfoInputs.cache
+/Users/ijaeseung/Projects/test/_016_String/obj/Debug/netcoreapp3.1/_016_String.AssemblyInfo.cs
+/Users/ijaeseung/Projects/test/_016_String/obj/Debug/netcoreapp3.1/_016_String.csproj.CoreCompileInputs.cache
+/Users/ijaeseung/Projects/test/_016_String/obj/Debug/netcoreapp3.1/_016_String.dll
+/Users/ijaeseung/Projects/test/_016_String/obj/Debug/netcoreapp3.1/_016_String.pdb
+/Users/ijaeseung/Projects/test/_016_String/obj/Debug/netcoreapp3.1/_016_String.genruntimeconfig.cache

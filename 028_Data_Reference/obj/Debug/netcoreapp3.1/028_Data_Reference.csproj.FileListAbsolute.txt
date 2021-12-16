@@ -1,0 +1,13 @@
+/Users/ijaeseung/Projects/test/028_Data_Reference/bin/Debug/netcoreapp3.1/028_Data_Reference.deps.json
+/Users/ijaeseung/Projects/test/028_Data_Reference/bin/Debug/netcoreapp3.1/028_Data_Reference.runtimeconfig.json
+/Users/ijaeseung/Projects/test/028_Data_Reference/bin/Debug/netcoreapp3.1/028_Data_Reference.runtimeconfig.dev.json
+/Users/ijaeseung/Projects/test/028_Data_Reference/bin/Debug/netcoreapp3.1/028_Data_Reference.dll
+/Users/ijaeseung/Projects/test/028_Data_Reference/bin/Debug/netcoreapp3.1/028_Data_Reference.pdb
+/Users/ijaeseung/Projects/test/028_Data_Reference/obj/Debug/netcoreapp3.1/028_Data_Reference.csproj.AssemblyReference.cache
+/Users/ijaeseung/Projects/test/028_Data_Reference/obj/Debug/netcoreapp3.1/028_Data_Reference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijaeseung/Projects/test/028_Data_Reference/obj/Debug/netcoreapp3.1/028_Data_Reference.AssemblyInfoInputs.cache
+/Users/ijaeseung/Projects/test/028_Data_Reference/obj/Debug/netcoreapp3.1/028_Data_Reference.AssemblyInfo.cs
+/Users/ijaeseung/Projects/test/028_Data_Reference/obj/Debug/netcoreapp3.1/028_Data_Reference.csproj.CoreCompileInputs.cache
+/Users/ijaeseung/Projects/test/028_Data_Reference/obj/Debug/netcoreapp3.1/028_Data_Reference.dll
+/Users/ijaeseung/Projects/test/028_Data_Reference/obj/Debug/netcoreapp3.1/028_Data_Reference.pdb
+/Users/ijaeseung/Projects/test/028_Data_Reference/obj/Debug/netcoreapp3.1/028_Data_Reference.genruntimeconfig.cache

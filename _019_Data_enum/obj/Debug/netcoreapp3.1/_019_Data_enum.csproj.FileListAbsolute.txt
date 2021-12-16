@@ -1,0 +1,13 @@
+/Users/ijaeseung/Projects/test/_019_Data_enum/bin/Debug/netcoreapp3.1/_019_Data_enum.deps.json
+/Users/ijaeseung/Projects/test/_019_Data_enum/bin/Debug/netcoreapp3.1/_019_Data_enum.runtimeconfig.json
+/Users/ijaeseung/Projects/test/_019_Data_enum/bin/Debug/netcoreapp3.1/_019_Data_enum.runtimeconfig.dev.json
+/Users/ijaeseung/Projects/test/_019_Data_enum/bin/Debug/netcoreapp3.1/_019_Data_enum.dll
+/Users/ijaeseung/Projects/test/_019_Data_enum/bin/Debug/netcoreapp3.1/_019_Data_enum.pdb
+/Users/ijaeseung/Projects/test/_019_Data_enum/obj/Debug/netcoreapp3.1/_019_Data_enum.csproj.AssemblyReference.cache
+/Users/ijaeseung/Projects/test/_019_Data_enum/obj/Debug/netcoreapp3.1/_019_Data_enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijaeseung/Projects/test/_019_Data_enum/obj/Debug/netcoreapp3.1/_019_Data_enum.AssemblyInfoInputs.cache
+/Users/ijaeseung/Projects/test/_019_Data_enum/obj/Debug/netcoreapp3.1/_019_Data_enum.AssemblyInfo.cs
+/Users/ijaeseung/Projects/test/_019_Data_enum/obj/Debug/netcoreapp3.1/_019_Data_enum.csproj.CoreCompileInputs.cache
+/Users/ijaeseung/Projects/test/_019_Data_enum/obj/Debug/netcoreapp3.1/_019_Data_enum.dll
+/Users/ijaeseung/Projects/test/_019_Data_enum/obj/Debug/netcoreapp3.1/_019_Data_enum.pdb
+/Users/ijaeseung/Projects/test/_019_Data_enum/obj/Debug/netcoreapp3.1/_019_Data_enum.genruntimeconfig.cache

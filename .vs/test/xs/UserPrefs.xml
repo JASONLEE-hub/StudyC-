@@ -1,0 +1,113 @@
+﻿<Properties StartupConfiguration="{4AFF33F7-96DF-42B8-8EFE-37C614CE239E}|Default">
+  <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__20__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CheckPoint03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.085__class__has__a FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.039__Operator6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.078__Constructor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.057__Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.055__Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="085_class_has_a/Program.cs">
+    <Files>
+      <File FileName="_016_String/Program.cs" Line="1" Column="1" />
+      <File FileName="_019_Data_enum/Program.cs" />
+      <File FileName="_20_Data_enum2/Program.cs" />
+      <File FileName="028_Data_Reference/Program.cs" />
+      <File FileName="031_ReadLine2/Program.cs" />
+      <File FileName="032_033_DataCheck/Program.cs" />
+      <File FileName="039_Operator6/Program.cs" />
+      <File FileName="041_Operator_null/Program.cs" />
+      <File FileName="042_gugudan/Program.cs" />
+      <File FileName="055_Check/Program.cs" />
+      <File FileName="056_Check/Program.cs" />
+      <File FileName="057_Check/Program.cs" />
+      <File FileName="CheckPoint01/Program.cs" />
+      <File FileName="062_FuncSwap/Program.cs" />
+      <File FileName="063_Func_out/Program.cs" />
+      <File FileName="067_Check/Program.cs" />
+      <File FileName="CheckPoint02/Program.cs" />
+      <File FileName="068_Array_Init/Program.cs" />
+      <File FileName="068_1_Array_init2/Program.cs" />
+      <File FileName="072_Array_Func1/Program.cs" />
+      <File FileName="073_Array_Func2/Program.cs" />
+      <File FileName="074_Array_Clear/Program.cs" />
+      <File FileName="075_Check/Program.cs" />
+      <File FileName="076_Check/Program.cs" />
+      <File FileName="CheckPoint03/Program.cs" />
+      <File FileName="077_class/Program.cs" />
+      <File FileName="078_Constructor/Program.cs" />
+      <File FileName="081_class_parameter/Program.cs" />
+      <File FileName="081_03_class_base/Program.cs" />
+      <File FileName="083_override/Program.cs" />
+      <File FileName="085_class_has_a/Program.cs" Line="59" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test" expanded="True">
+            <Node name="_016_String" expanded="True" />
+            <Node name="_019_Data_enum" expanded="True" />
+            <Node name="_20_Data_enum2" expanded="True" />
+            <Node name="028_Data_Reference" expanded="True" />
+            <Node name="031_ReadLine2" expanded="True" />
+            <Node name="032_033_DataCheck" expanded="True" />
+            <Node name="039_Operator6" expanded="True" />
+            <Node name="041_Operator_null" expanded="True" />
+            <Node name="042_gugudan" expanded="True" />
+            <Node name="055_Check" expanded="True" />
+            <Node name="056_Check" expanded="True" />
+            <Node name="057_Check" expanded="True" />
+            <Node name="062_FuncSwap" expanded="True" />
+            <Node name="063_Func_out" expanded="True" />
+            <Node name="067_Check" expanded="True" />
+            <Node name="068_1_Array_init2" expanded="True" />
+            <Node name="068_Array_Init" expanded="True" />
+            <Node name="072_Array_Func1" expanded="True" />
+            <Node name="073_Array_Func2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="075_Check" expanded="True" />
+            <Node name="076_Check" expanded="True" />
+            <Node name="077_class" expanded="True" />
+            <Node name="078_Constructor" expanded="True" />
+            <Node name="081_03_class_base" expanded="True" />
+            <Node name="081_class_parameter" expanded="True" />
+            <Node name="083_override" expanded="True" />
+            <Node name="085_class_has_a" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="CheckPoint01" expanded="True" />
+            <Node name="CheckPoint02" expanded="True" />
+            <Node name="CheckPoint03" expanded="True" />
+            <Node name="test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.068__Array__Init PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.083__override FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.073__Array__Func2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.075__Check FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.__019__Data__enum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.081__class__parameter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.042__gugudan PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.032__033__DataCheck PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CheckPoint02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.076__Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.031__ReadLine2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.081__03__class__base PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CheckPoint01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.041__Operator__null PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.067__Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.062__FuncSwap PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.077__class FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.__016__String PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.056__Check PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
